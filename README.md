@@ -1,4 +1,4 @@
 android-open-projects-app
 =========================
 
-最近有时间的话，会根据https://github.com/Trinea/android-open-project内容，写个App，这也是为啥开始规范添加和编辑规范的原因之一。
+最近有时间的话，会根据 https://github.com/Trinea/android-open-project 内容，写个对应的App，这也是为啥开始制定添加和编辑规范的原因之一。
